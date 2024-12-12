@@ -1,7 +1,9 @@
 
 # Spencer Blunt's Portfolio
 
-This is my homepage! I am Spencer Blunt and a computer science major.
+This is my homepage! I am Spencer Blunt and a computer science major at CSUF.
+
+My Github page is https://github.com/toukencat
 
 ## Favorite CPSC 120L Labs
 
