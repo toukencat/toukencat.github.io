@@ -1,7 +1,7 @@
 
 # Spencer Blunt's Portfolio
 
-This is my homepage! I am a Spencer Blunt and a computer science major.
+This is my homepage! I am Spencer Blunt and a computer science major.
 
 ## Favorite CPSC 120L Labs
 
